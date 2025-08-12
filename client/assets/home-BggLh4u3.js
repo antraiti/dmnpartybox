@@ -1,0 +1,1 @@
+import{w as t,j as o}from"./chunk-ZYFC6VSF-BCsh2avx.js";import{H as e}from"./home-Dsh0SlUj.js";import"./card-CcfHwnvQ.js";function i({}){return[{title:"DMN Party Deck"},{name:"home",content:"DMN Party Deck Info Site!"}]}const s=t(function(){return o.jsx(e,{})});export{s as default,i as meta};
