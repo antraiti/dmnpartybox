@@ -6,7 +6,7 @@ import { HomeIcon } from "lucide-react"
 export function About() {
     return(
         <div className="flex flex-col">
-            <Link className="p-1" to={"/"}><Button className="w-12 -rotate-2"><HomeIcon/></Button></Link>
+            <Link className="p-1 absolute" to={"/"}><Button className="w-12 -rotate-2"><HomeIcon/></Button></Link>
             <div className="h-1/12"/>
             <div className="flex flex-col items-center pt-12 pb-12">
                 <Card className="rotate-6 w-72">
