@@ -10,6 +10,6 @@ export function meta({}: Route.MetaArgs) {
   ];
 }
 
-export default function AboutRoute() {
+export default function RulesRoute() {
   return <Rules/>;
 }

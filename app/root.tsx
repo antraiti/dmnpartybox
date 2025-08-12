@@ -2,13 +2,18 @@ import {
   isRouteErrorResponse,
   Links,
   Meta,
-  Outlet,
+  Routes,
+  Route as RRoute,
   Scripts,
   ScrollRestoration,
 } from "react-router";
 
 import type { Route } from "./+types/root";
 import "./app.css";
+import { Home } from "./components/home";
+import AboutRoute from "./routes/about";
+import RulesRoute from "./routes/rules";
+import CardsRoute from "./routes/cards";
 
 export const links: Route.LinksFunction = () => [
   { rel: "preconnect", href: "https://fonts.googleapis.com" },
@@ -42,7 +47,12 @@ export function Layout({ children }: { children: React.ReactNode }) {
 }
 
 export default function App() {
-  return <Outlet />;
+  return <Routes>
+        <RRoute path="about" element={<AboutRoute />} />
+        <RRoute path="rules" element={<RulesRoute />} />
+        <RRoute path="cards" element={<CardsRoute />} />
+        <RRoute path="/" element={<Home />}/>
+      </Routes>;
 }
 
 export function ErrorBoundary({ error }: Route.ErrorBoundaryProps) {

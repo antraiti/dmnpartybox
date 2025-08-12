@@ -10,6 +10,6 @@ export function meta({}: Route.MetaArgs) {
   ];
 }
 
-export default function CardRoute() {
+export default function CardsRoute() {
   return <Cards/>;
 }
