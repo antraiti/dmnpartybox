@@ -9,7 +9,7 @@ export function About() {
             <Link className="p-1 absolute" to={"/"}><Button className="w-12 -rotate-2"><HomeIcon/></Button></Link>
             <div className="h-1/12"/>
             <div className="flex flex-col items-center pt-12 pb-12">
-                <Card className="rotate-6 w-72">
+                <Card className="rotate-6 w-72 bg-amber-100">
                     <h1 className="self-center text-6xl p-0">About</h1>
                 </Card>
                 <div className="pt-12 flex flex-col gap-12">

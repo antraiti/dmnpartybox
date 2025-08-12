@@ -7,10 +7,14 @@ export function Home() {
         <div className="flex flex-col h-screen">
             <div className="h-1/5"/>
             <div className="flex flex-col items-center">
-                <Card className="rotate-6 w-72">
-                    <h1 className="self-center text-6xl p-0 -rotate-6">DMN</h1>
+                <Card className="rotate-6 w-72 z-20 ml-12 bg-amber-100">
+                    <h1 className="self-center text-6xl p-0">DMN</h1>
+                </Card>
+                <Card className="-rotate-6 w-72 z-10 mr-16 bg-blue-200">
                     <h1 className="self-center text-6xl">Party</h1>
-                    <h1 className="self-center text-6xl -rotate-6">Deck</h1>
+                </Card>
+                <Card className="rotate-2 w-72 ml-4 bg-emerald-200">
+                    <h1 className="self-center text-6xl">Box</h1>
                 </Card>
                 <div className="pt-12 w-56 flex flex-col gap-6">
                     <div className="flex justify-between">
