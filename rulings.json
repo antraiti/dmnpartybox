@@ -1,0 +1,50 @@
+[
+    {
+        "title": "Blank Cards",
+        "game": "All",
+        "tags": [],
+        "text": "Cards that are blank card backs represent any card in their game that you can name. You cannot name a card thats already been played this game."
+    },
+    {
+        "title": "Land Types",
+        "game": "MTG",
+        "tags": ["Land"],
+        "text": "Cards not on the battlefield can be Land or non-Land, determined by the owner of the effect that cares about it. Cards played face down as Lands are Lands of all types."
+    },
+    {
+        "title": "Yugioh Summoning",
+        "game": "Yugioh",
+        "tags": ["Summon", "Cast", "Cost"],
+        "text": "Level 4 or lower monsters can be summoned to the battlefield for free."
+    },
+    {
+        "title": "Pokemon Casting",
+        "game": "Pokemon",
+        "tags": ["Cast", "Cost"],
+        "text": "Pokemon cards cost no resources to play."
+    },
+    {
+        "title": "Pokemon Abilities",
+        "game": "Pokemon",
+        "tags": ["Ability", "Cost"],
+        "text": "Pokemon abilities still require energy to use. Cards that add an energy or resource of any type can add energy to your pool."
+    },
+    {
+        "title": "Pokemon Bench",
+        "game": "Pokemon",
+        "tags": ["Bench"],
+        "text": "Your hand counts as your bench."
+    },
+    {
+        "title": "Pokemon Damage",
+        "game": "Pokemon",
+        "tags": ["Damage", "Health"],
+        "text": "Damage dealt to Pokemon stays on them while they remain on the battlefield."
+    },
+    {
+        "title": "Lorecana Damage",
+        "game": "Lorecana",
+        "tags": ["Damage", "Health"],
+        "text": "Damage dealt to Lorecana characters stays on them while they remain on the battlefield."
+    }
+]
