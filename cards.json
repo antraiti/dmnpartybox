@@ -1,0 +1,24 @@
+[
+    {
+        "name": "Booster Tutor",
+        "image": "https://cards.scryfall.io/large/front/c/3/c3a5b25e-c5af-417e-8675-162ab18ac2b1.jpg",
+        "rulings":[
+            {
+                "text": "The booster pack DOES NOT have to be a Magic booster pack."
+            },
+            {
+                "text": "The card is not removed from the deck. Please sign it and date it!"
+            },
+            {
+                "text": "The remainer of the cards are returned to the party box container."
+            }
+        ],
+        "blurred": false
+    },
+    {
+        "name": "Harsh Mentor",
+        "image": "https://cards.scryfall.io/large/front/8/9/8936bf9d-c973-4bce-b5c2-2a01b7953638.jpg",
+        "rulings":[],
+        "blurred": true
+    }
+]
