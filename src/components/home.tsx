@@ -5,7 +5,7 @@ import { Card } from "./ui/card"
 export function Home() {
     return(
         <div className="flex flex-col h-screen">
-            <div className="h-1/5"/>
+            <div className="h-12 md:h-1/5"/>
             <div className="flex flex-col items-center">
                 <Card className="rotate-6 w-72 z-20 ml-12 bg-amber-100">
                     <h1 className="self-center text-6xl p-0">DMN</h1>
