@@ -20,5 +20,25 @@
         "image": "https://cards.scryfall.io/large/front/8/9/8936bf9d-c973-4bce-b5c2-2a01b7953638.jpg",
         "rulings":[],
         "blurred": true
+    },
+    {
+        "name": "Reverse",
+        "image": "https://static.wikia.nocookie.net/matteluno/images/8/8f/Ddmcdqs-ecd2b865-fa25-4550-adf0-f5962af5484f.png",
+        "rulings":[
+            {
+                "text": "Instead of changing turn order the Uno reverse is used to reverse (redirect) things such as spells and attacking creatures."
+            }
+        ],
+        "blurred": true
+    },
+    {
+        "name": "Skip",
+        "image": "https://static.wikia.nocookie.net/matteluno/images/9/98/R_%2816%29.jpg",
+        "rulings":[
+            {
+                "text": "Uno skip does not skip the next players turn. Instead it is used to skip a stack. (cards on the stack are exiled)"
+            }
+        ],
+        "blurred": true
     }
 ]
