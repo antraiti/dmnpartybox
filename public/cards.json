@@ -40,5 +40,67 @@
             }
         ],
         "blurred": true
+    },
+    {
+        "name": "Goblin Fireleaper",
+        "image": "https://cards.scryfall.io/large/front/e/c/ec120dae-8c40-4053-9341-1f7774464634.jpg",
+        "rulings":[
+        ],
+        "blurred": false
+    },
+    {
+        "name": "Hard-Hitting Question",
+        "image": "https://cards.scryfall.io/large/front/8/a/8ad807c2-14a7-4464-bf57-c323fb3c0bd0.jpg",
+        "rulings":[
+        ],
+        "blurred": false
+    },
+    {
+        "name": "Shore Up",
+        "image": "https://cards.scryfall.io/large/front/4/d/4dc3b49e-3674-494c-bdea-4374cefd10f4.jpg",
+        "rulings":[
+        ],
+        "blurred": false
+    },
+    {
+        "name": "Coram, the Undertaker",
+        "image": "https://cards.scryfall.io/large/front/d/7/d7886c2b-515f-40d2-9bd8-cd1755c0b318.jpg",
+        "rulings":[
+        ],
+        "blurred": false
+    },
+    {
+        "name": "Juggernaut",
+        "image": "https://cards.scryfall.io/large/front/f/4/f4468fff-cd6f-428c-b7a0-ff89f5bbea2e.jpg",
+        "rulings": [],
+        "blurred": false
+    },
+    {
+        "name": "Clifftop Lookout",
+        "image": "https://cards.scryfall.io/large/front/f/4/f4468fff-cd6f-428c-b7a0-ff89f5bbea2e.jpg",
+        "rulings": [
+            {
+                "text": "Cards in the library can be Land or Non-Land however you must choose before revealing the card."
+            },
+            {
+                "text": "The card is placed on the battlefield face up."
+            },
+            {
+                "text": "Non-permanent cards cannot be placed on the battlefield and will go to exile."
+            }
+        ],
+        "blurred": false
+    },
+    {
+        "name": "Faerie Snoop",
+        "image": "https://cards.scryfall.io/large/front/2/0/20267dab-8898-4b44-8ef4-8a239967662c.jpg",
+        "rulings": [],
+        "blurred": false
+    },
+    {
+        "name": "I Won't Give In",
+        "image": "i-wont-give-in.jpg",
+        "rulings": [],
+        "blurred": true
     }
 ]

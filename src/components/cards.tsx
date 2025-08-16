@@ -3,10 +3,12 @@ import { Button } from "./ui/button"
 import { Card } from "./ui/card"
 import { HomeIcon } from "lucide-react"
 import { useEffect, useState } from "react";
+import { Input } from "./ui/input";
 
 export function Cards() {
     const [cards, setCards] = useState<Array<any>>([]);
     const [selectedCard, setSelectedCard] = useState<string>("");
+    const [searchVal, setSearchVal] = useState<string>("");
 
     useEffect(() => {
         fetch('cards.json')
@@ -65,8 +67,14 @@ export function Cards() {
                         <p>Cards will be added as we go! Click on a card to spoil and see its rulings.</p>
                     </Card>
                 </div>
+                <Input
+                    className="w-72 mt-6"
+                    placeholder="search" 
+                    value={searchVal} 
+                    onChange={e => setSearchVal(e.target.value)}
+                />
                 <div className="pt-16 flex flex-col gap-16">
-                    {cards.map(c => CardCard(c))}
+                    {cards.filter(c => searchVal.length === 0 || c.name.toLocaleLowerCase().indexOf(searchVal.toLocaleLowerCase()) >= 0).map(c => CardCard(c))}
                 </div>
             </div>
         </div>
