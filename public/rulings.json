@@ -27,7 +27,7 @@
         "title": "Pokemon Abilities",
         "game": "Pokemon",
         "tags": ["Ability", "Cost"],
-        "text": "Pokemon abilities still require energy to use. Cards that add an energy or resource of any type can add energy to your pool."
+        "text": "Pokemon abilities can be activated with mana. Your turn is ended after you use a pokemon ability."
     },
     {
         "title": "Pokemon Bench",
@@ -46,5 +46,23 @@
         "game": "Lorecana",
         "tags": ["Damage", "Health"],
         "text": "Damage dealt to Lorecana characters stays on them while they remain on the battlefield."
+    },
+    {
+        "title": "Uno Reverse",
+        "game": "Uno",
+        "tags": ["Target"],
+        "text": "Instead of changing turn order the Uno reverse is used to reverse (redirect) things such as spells and attacking creatures."
+    },
+    {
+        "title": "Uno Skip",
+        "game": "Uno",
+        "tags": ["Counter", "Target"],
+        "text": "Uno skip does not skip the next players turn. Instead it is used to skip a stack. (cards on the stack are exiled)"
+    },
+    {
+        "title": "Uno +2 or +4",
+        "game": "Uno",
+        "tags": ["Target", "Draw"],
+        "text": "Just like in Uno, these cards make the next player draw the printed amount and they must skip their next turn."
     }
 ]
