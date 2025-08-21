@@ -328,7 +328,14 @@
     {
         "name": "WAKE CUP! Mocha",
         "image": "https://ms.yugipedia.com//0/04/WAKECUPMocha-DUAD-EN-C-1E.png",
-        "rulings": [],
+        "rulings": [
+            {
+                "text": "You can choose to flip WAKE CUP! Mocha on your turn as a sorcery speed action."
+            },
+            {
+                "text": "When face down in defense position WAKE CUP! Mocha still can block. When it does, turn it face up."
+            }
+        ],
         "blurred": false
     },
     {
