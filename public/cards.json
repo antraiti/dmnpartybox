@@ -102,5 +102,453 @@
         "image": "i-wont-give-in.jpg",
         "rulings": [],
         "blurred": true
+    },
+    {
+        "name": "Rules Lawyer",
+        "image": "https://cards.scryfall.io/large/front/6/c/6c02c575-5685-44f5-8b47-89d888529d1b.jpg",
+        "rulings": [],
+        "blurred": false
+    },
+    {
+        "name": "Grusilda, Monster Masher",
+        "image": "https://cards.scryfall.io/large/front/8/2/82ca9cf7-d6ca-4403-84be-719480eb4b7d.jpg",
+        "rulings": [],
+        "blurred": false
+    },
+    {
+        "name": "Animate Graveyard",
+        "image": "https://cards.scryfall.io/large/front/8/3/83f7b63b-44b1-4119-a4bf-c10fe3429d91.jpg",
+        "rulings": [],
+        "blurred": false
+    },
+    {
+        "name": "Ineffable Blessing",
+        "image": "https://cards.scryfall.io/large/front/b/e/be3e867a-208d-4a23-b8a8-a48866889a8d.jpg",
+        "rulings": [],
+        "blurred": false
+    },
+    {
+        "name": "Summon the Pack",
+        "image": "https://cards.scryfall.io/large/front/c/d/cd66d5bb-a0cc-48fa-9d98-4195debc188a.jpg",
+        "rulings": [],
+        "blurred": false
+    },
+    {
+        "name": "Meet and Greet \"Sisay\"",
+        "image": "https://cards.scryfall.io/large/front/1/4/14360131-4108-4968-874f-935f920e0837.jpg",
+        "rulings": [],
+        "blurred": false
+    },
+    {
+        "name": "Expendable Lackey",
+        "image": "https://cards.scryfall.io/large/front/9/5/9515329a-0738-4b23-a326-ff417f47da77.jpg",
+        "rulings": [],
+        "blurred": false
+    },
+    {
+        "name": "Rooftop Nuisance",
+        "image": "https://cards.scryfall.io/large/front/d/7/d7a84781-b40c-41e0-a0b9-86e466c9b12d.jpg",
+        "rulings": [],
+        "blurred": false
+    },
+    {
+        "name": "The Beamtown Bullies",
+        "image": "https://cards.scryfall.io/large/front/f/0/f0455a79-15f4-4ea6-87ae-263ce943cfac.jpg",
+        "rulings": [],
+        "blurred": false
+    },
+    {
+        "name": "Corpse Explosion",
+        "image": "https://cards.scryfall.io/large/front/c/7/c700eff3-138b-4d4c-ba36-58b98986168c.jpg",
+        "rulings": [],
+        "blurred": false
+    },
+    {
+        "name": "Graveyard Shift",
+        "image": "https://cards.scryfall.io/large/front/3/9/394d7fb3-44ee-409f-a992-27e5aabd9c2b.jpg",
+        "rulings": [],
+        "blurred": false
+    },
+    {
+        "name": "A Little Chat",
+        "image": "https://cards.scryfall.io/large/front/4/d/4d7424b6-b56a-47b7-8204-294d3dca925f.jpg",
+        "rulings": [],
+        "blurred": false
+    },
+    {
+        "name": "Jolted Awake",
+        "image": "https://cards.scryfall.io/large/front/d/5/d51015ef-184c-44bb-b3d2-c74a0549efac.jpg",
+        "rulings": [],
+        "blurred": false
+    },
+    {
+        "name": "Novice Inspector",
+        "image": "https://cards.scryfall.io/large/front/0/a/0ad38866-fc5f-4f62-89c1-afc0f50765aa.jpg",
+        "rulings": [],
+        "blurred": false
+    },
+    {
+        "name": "Pyrotechnic Performer",
+        "image": "https://cards.scryfall.io/large/front/0/f/0fa5671b-2651-4944-a50a-c768ec70229e.jpg",
+        "rulings": [],
+        "blurred": false
+    },
+    {
+        "name": "Felonious Rage",
+        "image": "https://cards.scryfall.io/large/front/4/5/4538d6a8-a24a-40e3-b894-45a30882c92a.jpg",
+        "rulings": [],
+        "blurred": false
+    },
+    {
+        "name": "Yarus, Roar of the Old Gods",
+        "image": "https://cards.scryfall.io/large/front/3/2/326845a7-7502-4dc3-8f3e-867d6c84e931.jpg",
+        "rulings": [],
+        "blurred": false
+    },
+    {
+        "name": "Expose the Culprit",
+        "image": "https://cards.scryfall.io/large/front/3/1/31aadd3d-5ce1-44ba-ac6d-b192a9ea491b.jpg",
+        "rulings": [],
+        "blurred": false
+    },
+    {
+        "name": "Toxin Analysis",
+        "image": "https://cards.scryfall.io/large/front/0/e/0eda1aff-c1f4-4171-a800-605396cc8168.jpg",
+        "rulings": [],
+        "blurred": false
+    },
+    {
+        "name": "Hustle // Bustle",
+        "image": "https://cards.scryfall.io/large/front/5/f/5f664827-e22e-43af-82f1-861b3c7607f1.jpg",
+        "rulings": [],
+        "blurred": false
+    },
+    {
+        "name": "Archeops",
+        "image": "https://assets.pokemon.com/static-assets/content-assets/cms2/img/cards/web/RSV10PT5/RSV10PT5_EN_51.png",
+        "rulings": [],
+        "blurred": false
+    },
+    {
+        "name": "Hard-Hitting Question",
+        "image": "https://cards.scryfall.io/large/front/8/a/8ad807c2-14a7-4464-bf57-c323fb3c0bd0.jpg",
+        "rulings": [],
+        "blurred": false
+    },
+    {
+        "name": "Copy",
+        "image": "https://cards.scryfall.io/large/front/6/8/6870a2af-80e1-4813-a332-2b1bd789f1c1.jpg",
+        "rulings": [],
+        "blurred": false
+    },
+    {
+        "name": "Pacifism",
+        "image": "https://cards.scryfall.io/large/front/0/d/0da7c6dc-9325-4866-8c09-78c7021f8f17.jpg",
+        "rulings": [],
+        "blurred": false
+    },
+    {
+        "name": "Diamond Weapon",
+        "image": "https://cards.scryfall.io/large/front/6/c/6ce7f494-2a19-4b11-94d4-fc5e5a7068bd.jpg",
+        "rulings": [],
+        "blurred": false
+    },
+    {
+        "name": "Baird, Steward of Argive",
+        "image": "https://cards.scryfall.io/large/front/9/1/91bbe20b-0d39-46fc-a09a-fc8c676f1fe7.jpg",
+        "rulings": [],
+        "blurred": false
+    },
+    {
+        "name": "Dog Walker",
+        "image": "https://cards.scryfall.io/large/front/a/6/a6e0adb7-a030-4dcc-9284-cd91c7598a22.jpg",
+        "rulings": [],
+        "blurred": false
+    },
+    {
+        "name": "Qarsi Revenant",
+        "image": "https://cards.scryfall.io/large/front/8/c/8c93a0f6-5e50-4dda-9ff6-da741fb839ff.jpg",
+        "rulings": [],
+        "blurred": false
+    },
+    {
+        "name": "Clifftop Lookout",
+        "image": "https://cards.scryfall.io/large/front/6/6/662d3bcc-65f3-4c69-8ea1-446870a1193d.jpg",
+        "rulings": [],
+        "blurred": false
+    },
+    {
+        "name": "Cuombajj Witches",
+        "image": "https://cards.scryfall.io/large/front/6/f/6f32b7f8-989d-4ffe-8279-57c6b6848a32.jpg",
+        "rulings": [],
+        "blurred": false
+    },
+    {
+        "name": "Meteor Golem",
+        "image": "https://cards.scryfall.io/large/front/d/2/d291ea1e-36bc-46b3-b3ae-084fa0ba69eb.jpg",
+        "rulings": [],
+        "blurred": false
+    },
+    {
+        "name": "Harsh Mentor",
+        "image": "https://cards.scryfall.io/large/front/3/d/3d440fb1-3e19-4615-a988-558b9d3db179.jpg",
+        "rulings": [],
+        "blurred": false
+    },
+    {
+        "name": "Morgana the Witch of Eyes",
+        "image": "https://ms.yugipedia.com//a/a4/MorganatheWitchofEyes-DUAD-EN-SR-1E.png",
+        "rulings": [],
+        "blurred": false
+    },
+    {
+        "name": "Cruelclaw's Heist",
+        "image": "https://cards.scryfall.io/large/front/c/a/cab4539a-0157-4cbe-b50f-6e2575df74e9.jpg",
+        "rulings": [],
+        "blurred": false
+    },
+    {
+        "name": "Lifecrafter's Bestiary",
+        "image": "https://cards.scryfall.io/large/front/7/4/7439a855-4041-4d14-8edf-6741a734e55d.jpg",
+        "rulings": [],
+        "blurred": false
+    },
+    {
+        "name": "Kill Shot",
+        "image": "https://cards.scryfall.io/large/front/6/1/61b0b9a3-8f50-4fba-9978-409f3369afa6.jpg",
+        "rulings": [],
+        "blurred": false
+    },
+    {
+        "name": "Stitch Little Trickster",
+        "image": "stitch_little_trickster.jpg",
+        "rulings": [],
+        "blurred": false
+    },
+    {
+        "name": "WAKE CUP! Mocha",
+        "image": "https://ms.yugipedia.com//0/04/WAKECUPMocha-DUAD-EN-C-1E.png",
+        "rulings": [],
+        "blurred": false
+    },
+    {
+        "name": "Perennation",
+        "image": "https://cards.scryfall.io/large/front/f/f/ffe7071e-a214-44e8-a571-129f0db44f76.jpg",
+        "rulings": [],
+        "blurred": false
+    },
+    {
+        "name": "Death by Dragons",
+        "image": "https://cards.scryfall.io/large/front/2/f/2ffea759-c041-47e0-869a-a908c750a3a0.jpg",
+        "rulings": [],
+        "blurred": false
+    },
+    {
+        "name": "Bilious Skulldweller",
+        "image": "https://cards.scryfall.io/large/front/d/f/dfb81cb1-ac56-4803-a962-359854a447df.jpg",
+        "rulings": [],
+        "blurred": false
+    },
+    {
+        "name": "Call of the Herd",
+        "image": "https://cards.scryfall.io/large/front/7/f/7ff0c182-f9ec-41d1-beb6-97d0eb1be592.jpg",
+        "rulings": [],
+        "blurred": false
+    },
+    {
+        "name": "Archetype of Aggression",
+        "image": "https://cards.scryfall.io/large/front/1/3/13946413-c76d-41a8-a699-404fd56b2067.jpg",
+        "rulings": [],
+        "blurred": false
+    },
+    {
+        "name": "Professor's Research",
+        "image": "https://assets.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SWSH9/SWSH9_EN_147.png",
+        "rulings": [],
+        "blurred": false
+    },
+    {
+        "name": "Feed the Cycle",
+        "image": "https://cards.scryfall.io/large/front/7/e/7e017ff8-2936-4a1b-bece-00004cfbad06.jpg",
+        "rulings": [],
+        "blurred": false
+    },
+    {
+        "name": "Lunalight Silver Hound",
+        "image": "https://ms.yugipedia.com//f/fa/LunalightSilverHound-DUAD-EN-C-1E.png",
+        "rulings": [],
+        "blurred": false
+    },
+    {
+        "name": "Shore Up",
+        "image": "https://cards.scryfall.io/large/front/4/d/4dc3b49e-3674-494c-bdea-4374cefd10f4.jpg",
+        "rulings": [],
+        "blurred": false
+    },
+    {
+        "name": "Coram, the Undertaker",
+        "image": "https://cards.scryfall.io/large/front/d/7/d7886c2b-515f-40d2-9bd8-cd1755c0b318.jpg",
+        "rulings": [],
+        "blurred": false
+    },
+    {
+        "name": "Gonti, Lord of Luxury",
+        "image": "https://cards.scryfall.io/large/front/7/7/7735ecda-9bb0-4ef9-86b2-16e5b6592e61.jpg",
+        "rulings": [],
+        "blurred": false
+    },
+    {
+        "name": "Victini ex",
+        "image": "https://assets.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SV03/SV03_EN_33.png",
+        "rulings": [],
+        "blurred": false
+    },
+    {
+        "name": "Kari Zev's Expertise",
+        "image": "https://cards.scryfall.io/large/front/a/b/ab5c7400-6307-4c51-88b8-9c0232110714.jpg",
+        "rulings": [],
+        "blurred": false
+    },
+    {
+        "name": "THE Star Ham",
+        "image": "https://ms.yugipedia.com//a/af/THEStarHam-DUAD-EN-C-1E.png",
+        "rulings": [],
+        "blurred": false
+    },
+    {
+        "name": "Blasphemous Edict",
+        "image": "https://cards.scryfall.io/large/front/1/1/11040ecd-3153-4029-b42b-1441bc51ec34.jpg",
+        "rulings": [],
+        "blurred": false
+    },
+    {
+        "name": "Nemona",
+        "image": "https://assets.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SV01/SV01_EN_180.png",
+        "rulings": [],
+        "blurred": false
+    },
+    {
+        "name": "Offer Immortality",
+        "image": "https://cards.scryfall.io/large/front/b/0/b0aac10a-6d47-4a6c-8a10-2b7c06f3ff32.jpg",
+        "rulings": [],
+        "blurred": false
+    },
+    {
+        "name": "Shoreline Looter",
+        "image": "https://cards.scryfall.io/large/front/d/5/d5bf8cf0-419a-4dc9-9342-aad55c1af05a.jpg",
+        "rulings": [],
+        "blurred": false
+    },
+    {
+        "name": "Juggernaut",
+        "image": "https://cards.scryfall.io/large/front/7/d/7d9510b0-925d-49f4-8237-d634f66230bd.jpg",
+        "rulings": [],
+        "blurred": false
+    },
+    {
+        "name": "Token",
+        "image": "https://ms.yugipedia.com//d/d4/Token-TKN5-EN-SR-UE-LeoandLifeStreamDragon.png",
+        "rulings": [
+            {
+                "text": "Token is any named token when played. The token can be from any game."
+            }
+        ],
+        "blurred": false
+    },
+    {
+        "name": "Sin Prodder",
+        "image": "https://cards.scryfall.io/large/front/d/b/db89172e-0542-4858-9e65-38b1bac8cdeb.jpg",
+        "rulings": [],
+        "blurred": false
+    },
+    {
+        "name": "Switch",
+        "image": "https://assets.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SV01/SV01_EN_194.png",
+        "rulings": [
+            {
+                "text": "Benched Pokemon are any monsters/creatures in your hand."
+            }
+        ],
+        "blurred": false
+    },
+    {
+        "name": "Scour from Existence",
+        "image": "https://cards.scryfall.io/large/front/6/e/6e47edb2-e43d-479f-a911-e72b67a06c3b.jpg",
+        "rulings": [],
+        "blurred": false
+    },
+    {
+        "name": "Songcrafter Mage",
+        "image": "https://cards.scryfall.io/large/front/9/5/9523bc07-49e5-409c-ae6b-b28e305eef36.jpg",
+        "rulings": [],
+        "blurred": false
+    },
+    {
+        "name": "+2",
+        "image": "draw-two.png",
+        "rulings": [
+            {
+                "text": "The player after you draws 2 and skips their turn."
+            }
+        ],
+        "blurred": false
+    },
+    {
+        "name": "Wild Ride",
+        "image": "https://cards.scryfall.io/large/front/a/b/abc8c6f5-6135-428e-8476-1751f82623f9.jpg",
+        "rulings": [],
+        "blurred": false
+    },
+    {
+        "name": "Glorybringer",
+        "image": "https://cards.scryfall.io/large/front/0/6/06f90d62-6d21-47b1-a427-eb25a42f4dcb.jpg",
+        "rulings": [],
+        "blurred": false
+    },
+    {
+        "name": "Verdurous Gearhulk",
+        "image": "https://cards.scryfall.io/large/front/0/1/0130b99e-5b2f-4482-b141-752e59b72c31.jpg",
+        "rulings": [],
+        "blurred": false
+    },
+    {
+        "name": "Yargle, Glutton of Urborg",
+        "image": "https://cards.scryfall.io/large/front/8/f/8febc0fe-c52d-4b6a-9d18-e1e4a43b6dc3.jpg",
+        "rulings": [],
+        "blurred": false
+    },
+    {
+        "name": "Shipping Error",
+        "image": "https://ms.yugipedia.com//7/78/ShippingError-DUAD-EN-C-1E.png",
+        "rulings": [],
+        "blurred": false
+    },
+    {
+        "name": "Goblin",
+        "image": "https://cards.scryfall.io/large/front/7/0/70f8a1de-cd4c-4afa-bf03-0245d375d42e.jpg",
+        "rulings": [],
+        "blurred": false
+    },
+    {
+        "name": "+4",
+        "image": "draw-four.png",
+        "rulings": [
+            {
+                "text": "The player after you draws 4 and skips their turn."
+            }
+        ],
+        "blurred": false
+    },
+    {
+        "name": "Djinn of Wishes",
+        "image": "https://cards.scryfall.io/large/front/2/7/27d38bba-6eb9-4dd8-81aa-722def89b163.jpg",
+        "rulings": [],
+        "blurred": false
+    },
+    {
+        "name": "Chainer's Edict",
+        "image": "https://cards.scryfall.io/large/front/6/3/63416b41-7791-48ff-bcdc-54101afbea31.jpg",
+        "rulings": [],
+        "blurred": false
     }
 ]
